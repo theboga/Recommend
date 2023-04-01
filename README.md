@@ -45,9 +45,15 @@ https://user-images.githubusercontent.com/9596542/229278417-113a71a5-b55d-482b-b
 - iOS 15.0+
 - XCode 13.3
 
+![Simulator-Screen-Shot---iPhone-11---2023-04-01-at-03 47 03](https://user-images.githubusercontent.com/9596542/229280163-9092dfc8-dde3-4395-a4ac-d951a91f0e4a.png)
 
+![Simulator Screen Shot - iPhone 11 - 2023-04-01 at 03 47 03](https://user-images.githubusercontent.com/9596542/229280175-52547e9c-c18a-4fd2-916f-658d70103025.png)
 
-![Simulator Screen Shot - iPhone 11 - 2023-04-01 at 02 49 24](https://user-images.githubusercontent.com/9596542/229276272-1659d1cb-b4fc-45e0-9987-56ee4acc55ee.png)
+![Simulator Screen Shot - iPhone 11 - 2023-04-01 at 03 47 14](https://user-images.githubusercontent.com/9596542/229280188-b95511b8-fec0-42fb-a80e-15c88ca7482b.png)
+![Simulator Screen Shot - iPhone 11 - 2023-04-01 at 03 47 25](https://user-images.githubusercontent.com/9596542/229280198-060aac20-6647-4a89-9776-b5b0d0dfaafb.png)
+![Simulator Screen Shot - iPhone 11 - 2023-04-01 at 03 47 48](https://user-images.githubusercontent.com/9596542/229280250-e895d77f-e3c7-4d2e-8dba-ee6d911eafd1.png)
+![Simulator Screen Shot - iPhone 11 - 2023-04-01 at 03 48 31](https://user-images.githubusercontent.com/9596542/229280260-0ddeaddd-93f9-4b80-98bf-3ba5aca47d8c.png)
+![Simulator Screen Shot - iPhone 11 - 2023-04-01 at 03 48 45](https://user-images.githubusercontent.com/9596542/229280267-0be7422f-8e8d-4569-9792-4cb6582323da.png)
 
 
 ## Installation
