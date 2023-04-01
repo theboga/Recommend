@@ -45,7 +45,7 @@ https://user-images.githubusercontent.com/9596542/229278417-113a71a5-b55d-482b-b
 - iOS 15.0+
 - XCode 13.3
 
-![Simulator-Screen-Shot---iPhone-11---2023-04-01-at-03 47 03](https://user-images.githubusercontent.com/9596542/229280458-db7ab5c7-6b99-4976-90ca-c55fcd095995.png)
+![Simulator-Screen-Shot---iPhone-11---2023-04-01-at-03 47 03](https://user-images.githubusercontent.com/9596542/229280543-a2e84ac9-c507-4ab4-b728-35116eda4efe.png)
 ![Simulator Screen Shot - iPhone 11 - 2023-04-01 at 03 47 03](https://user-images.githubusercontent.com/9596542/229280175-52547e9c-c18a-4fd2-916f-658d70103025.png)
 ![Simulator Screen Shot - iPhone 11 - 2023-04-01 at 03 47 14](https://user-images.githubusercontent.com/9596542/229280188-b95511b8-fec0-42fb-a80e-15c88ca7482b.png)
 ![Simulator Screen Shot - iPhone 11 - 2023-04-01 at 03 47 25](https://user-images.githubusercontent.com/9596542/229280198-060aac20-6647-4a89-9776-b5b0d0dfaafb.png)
