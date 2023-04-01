@@ -14,13 +14,9 @@
 
 
 https://user-images.githubusercontent.com/9596542/229278153-527681d5-6456-4dda-8cc3-3388cf1174b4.mp4
-
 https://user-images.githubusercontent.com/9596542/229278160-e7362cf1-6680-4f50-9bae-26b5243dac85.mp4
-
 https://user-images.githubusercontent.com/9596542/229278279-402b7e8f-9a94-4a67-a59d-5d3b88244dce.mp4
-
 https://user-images.githubusercontent.com/9596542/229278361-aaba6f41-4c80-41f5-9370-4580b792e756.mp4
-
 https://user-images.githubusercontent.com/9596542/229278417-113a71a5-b55d-482b-b5a9-c2400b067387.mp4
 
 
@@ -46,9 +42,7 @@ https://user-images.githubusercontent.com/9596542/229278417-113a71a5-b55d-482b-b
 - XCode 13.3
 
 ![Simulator-Screen-Shot---iPhone-11---2023-04-01-at-03 47 03](https://user-images.githubusercontent.com/9596542/229280163-9092dfc8-dde3-4395-a4ac-d951a91f0e4a.png)
-
 ![Simulator Screen Shot - iPhone 11 - 2023-04-01 at 03 47 03](https://user-images.githubusercontent.com/9596542/229280175-52547e9c-c18a-4fd2-916f-658d70103025.png)
-
 ![Simulator Screen Shot - iPhone 11 - 2023-04-01 at 03 47 14](https://user-images.githubusercontent.com/9596542/229280188-b95511b8-fec0-42fb-a80e-15c88ca7482b.png)
 ![Simulator Screen Shot - iPhone 11 - 2023-04-01 at 03 47 25](https://user-images.githubusercontent.com/9596542/229280198-060aac20-6647-4a89-9776-b5b0d0dfaafb.png)
 ![Simulator Screen Shot - iPhone 11 - 2023-04-01 at 03 47 48](https://user-images.githubusercontent.com/9596542/229280250-e895d77f-e3c7-4d2e-8dba-ee6d911eafd1.png)
